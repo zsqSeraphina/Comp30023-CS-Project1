@@ -1,5 +1,5 @@
 # Comp30023-CS-Project1
->This is the first project of Comp30023 20 s1(13.1/15)
+>This is the [first project](https://github.com/zsqSeraphina/Comp30023-CS-Project1/blob/master/web_crawler.pdf) of Comp30023 20 s1(13.1/15)
 
 Introduction
 ============
